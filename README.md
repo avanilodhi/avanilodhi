@@ -26,7 +26,7 @@
 
 
 ## 🧩 Projects
-- **Sliced:** A project using Java, JavaFX, and CSS for a unique user experience.
+- **Dribbble:** A project using Java, JavaFX, and CSS  to showcase their work, connect with peers, and discover design inspiration.
 
 
 ---
