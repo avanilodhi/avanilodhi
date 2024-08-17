@@ -16,17 +16,18 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=avanilodhi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avanilodhi&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-
-## 🧩 Projects
-- **Sliced:** A project using Java, JavaFX, and CSS for a unique user experience.
-
-## 📈 GitHub Stats with Grades
+## 📈 Grades
 
 | Metric                   | Grade  |
 |--------------------------|--------|
 | **Code Quality**         | B+     |
 | **Project Contributions**| B-     |
 | **Activity**             | B+     |
+
+
+## 🧩 Projects
+- **Sliced:** A project using Java, JavaFX, and CSS for a unique user experience.
+
 
 ---
 
