@@ -24,10 +24,10 @@
 | **Project Contributions**| B-     |
 | **Activity**             | B+     |
 
-##💼 Professional Experience
+## 💼 Professional Experience:
 I recently completed a 35-week intensive Full-Stack Web Development course at Masai School, where I honed my skills in HTML, CSS, JavaScript, React, Node.js, and MongoDB. My experiences have equipped me with a strong foundation in creating responsive, user-friendly web applications.
 
-## 🧩 Projects
+## 🧩 Projects:
 - **Dribbble:** A project using Java, JavaFX, and CSS  to showcase their work, connect with peers, and discover design inspiration.
 
 
@@ -35,7 +35,7 @@ I recently completed a 35-week intensive Full-Stack Web Development course at Ma
 
 *Feel free to check out my projects and connect with me!*
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
