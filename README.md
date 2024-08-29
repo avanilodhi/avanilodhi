@@ -29,6 +29,9 @@ I recently completed a 35-week intensive Full-Stack Web Development course at Ma
 
 ## 🧩 Projects:
 - **Dribbble:** A project using Java, JavaFX, and CSS  to showcase their work, connect with peers, and discover design inspiration.
+- **Godawari loop (TMetrix):**
+    [![Live Demo]](https://t-matrix.netlify.app/) 
+    Description: Built during our construct week, this project is a clone of the TMetrix website.
 
 
 ---
