@@ -28,9 +28,11 @@
 I recently completed a 35-week intensive Full-Stack Web Development course at Masai School, where I honed my skills in HTML, CSS, JavaScript, React, Node.js, and MongoDB. My experiences have equipped me with a strong foundation in creating responsive, user-friendly web applications.
 
 ## 🧩 Projects:
-- **Dribbble:** A project using Java, JavaFX, and CSS  to showcase their work, connect with peers, and discover design inspiration.
-- **Godawari loop (TMetrix):**
-    [![Live Demo]](https://t-matrix.netlify.app/) 
+- **Dribbble:**</br>
+      [Live Demo]](https://t-matrix.netlify.app/)
+      A project using Java, JavaFX, and CSS  to showcase their work, connect with peers, and discover design inspiration.
+- **Godawari loop (TMetrix):**</br>
+    [Live Demo]](https://t-matrix.netlify.app/) </br>
     Description: Built during our construct week, this project is a clone of the TMetrix website.
 
 
