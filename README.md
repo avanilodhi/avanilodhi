@@ -11,10 +11,10 @@
 
 ## 🧩 Projects:
 - **Dribbble:** </br>
-      [[Live Demo](https://dribbling-theta.vercel.app/) </br>
+      [Live Demo](https://dribbling-theta.vercel.app/) </br>
       A project using Java, JavaFX, and CSS  to showcase their work, connect with peers, and discover design inspiration.
 - **Godawari loop (TMetrix):** </br>
-    [[Live demo](https://t-matrix.netlify.app/) </br>
+    [Live demo](https://t-matrix.netlify.app/) </br>
     Description: Built during our construct week, this project is a clone of the TMetrix website.
 
 # 💻 Tech Stack:
