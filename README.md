@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/avani-lodhi/) 
 
 ## 🧩 Projects:
-- **Dribbble:** </br>
+- **LinkedIn-Luminaries_095 (Dribbble):** </br>
       [Live Demo](https://dribbling-theta.vercel.app/) </br>
       Description: A project using Java, JavaFX, and CSS  to showcase their work, connect with peers, and discover design inspiration.
   </br>
