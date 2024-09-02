@@ -10,6 +10,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/avani-lodhi/) 
 
 ## 🧩 Projects:
+
+- **Online_Code_Editor(Open Code Dev):** </br>
+      [Open Code Dev: Live Demo](https://online-code-editor-silk.vercel.app/)<br/>
+      Open Code Dev is an innovative code editor application designed to provide developers with a powerful, yet user-friendly platform for writing and executing code directly in the browser. 
+
 - **LinkedIn-Luminaries_095 (Dribbble):** </br>
       [Live Demo](https://dribbling-theta.vercel.app/) </br>
       Description: A project using Java, JavaFX, and CSS  to showcase their work, connect with peers, and discover design inspiration.
