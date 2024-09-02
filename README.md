@@ -11,16 +11,13 @@
 
 ## 🧩 Projects:
 
-- **Online_Code_Editor(Open Code Dev):** </br>
-      [Open Code Dev: Live Demo](https://online-code-editor-silk.vercel.app/)<br/>
-      Open Code Dev is an innovative code editor application designed to provide developers with a powerful, yet user-friendly platform for writing and executing code directly in the browser. 
+- **Online_Code_Editor(Open Code Dev):** [Open Code Dev: Live Demo](https://online-code-editor-silk.vercel.app/)<br/>
+       Description: Open Code Dev is an innovative code editor application designed to provide developers with a powerful, yet user-friendly platform for writing and executing code directly in the browser. 
 
-- **LinkedIn-Luminaries_095 (Dribbble):** </br>
-      [Live Demo](https://dribbling-theta.vercel.app/) </br>
+- **LinkedIn-Luminaries_095 (Dribbble):** [Dribbble: Live Demo](https://dribbling-theta.vercel.app/) </br>
       Description: A project using Java, JavaFX, and CSS  to showcase their work, connect with peers, and discover design inspiration.
   </br>
-- **Godawari loop (TMetrix):** </br>
-    [Live demo](https://t-matrix.netlify.app/) </br>
+- **Godawari loop (TMetrix):** [TMetrix: Live demo](https://t-matrix.netlify.app/) </br>
     Description: Built during our construct week, this project is a clone of the TMetrix website.
 
 # 💻 Tech Stack:
