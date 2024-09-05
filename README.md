@@ -11,7 +11,7 @@
 
 ## 🧩 Projects:
 
-- **Online_Code_Editor(Open Code Dev):** [Open Code Dev: Live Demo](https://online-code-editor-silk.vercel.app/)<br/>
+- **Online_Code_Editor (Open Code Dev):** [Open Code Dev: Live Demo](https://online-code-editor-silk.vercel.app/)<br/>
        Description: Open Code Dev is an innovative code editor application designed to provide developers with a powerful, yet user-friendly platform for writing and executing code directly in the browser. 
 
 - **LinkedIn-Luminaries_095 (Dribbble):** [Dribbble: Live Demo](https://dribbling-theta.vercel.app/) </br>
