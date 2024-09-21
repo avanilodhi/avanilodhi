@@ -2,7 +2,7 @@
 <h1>👋 Hi, I'm Avani Lodhi</h1><br><br> I'm a dedicated Full-Stack Web Developer with a B.Tech in Mechanical Engineering. My journey into web development began with a deep passion for coding and technology, leading me to transition from engineering to software development. <br><br>I recently completed a 35-week intensive Full-Stack Web Development course at Masai School, where I honed my skills in HTML, <br>CSS, JavaScript, React, Node.js, and MongoDB. During this time, I built projects like Open Code Dev, Dribbble clone, a T-Matrix clone. <br><br>My experiences have equipped me with a strong foundation in creating responsive, user-friendly web applications. I’m committed <br>to continuous learning and am eager to contribute to innovative projects that leverage technology to solve real-world problems. I’m excited to collaborate with others in the tech community and to bring my skills and passion to new challenges. </br></br>
 
 - 🌱 I’m currently learning Java and JavaFX.
-- 💼 I’m open to collaborating on web development projects.
+- 💼 I’m open to collaborating on web development and MERN projects.
 - 📫 Reach me at [avanilodhi29@gmail.com](mailto:avanilodhi29@gmail.com)
 
 
