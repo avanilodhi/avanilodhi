@@ -1,8 +1,15 @@
 ## 🚀 About Me
-<h1>👋 Hi, I'm Avani Lodhi</h1><br><br> I'm a dedicated Full-Stack Web Developer with a B.Tech in Mechanical Engineering. My journey into web development began with a deep passion for coding and technology, leading me to transition from engineering to software development. <br><br>I recently completed a 35-week intensive Full-Stack Web Development course at Masai School, where I honed my skills in HTML, <br>CSS, JavaScript, React, Node.js, and MongoDB. During this time, I built projects like Open Code Dev, Dribbble clone, a T-Matrix clone. <br><br>My experiences have equipped me with a strong foundation in creating responsive, user-friendly web applications. I’m committed <br>to continuous learning and am eager to contribute to innovative projects that leverage technology to solve real-world problems. I’m excited to collaborate with others in the tech community and to bring my skills and passion to new challenges. </br></br>
+<h1>👋 Hi, I'm Avani Lodhi</h1><br><br>  
+I'm a Backend Developer based in Mumbai, currently working at Es Mágico — a venture studio that partners with startups and enterprises to build and scale tech products.  
 
-- 🌱 I’m currently learning Java and JavaFX.
-- 💼 I’m open to collaborating on web development projects.
+My journey started in Mechanical Engineering, but somewhere along the way, I fell in love with code. So I made the jump, completed a 35-week intensive full-stack program at Masai School, and haven’t looked back since.  
+
+Now I’m building APIs, diving deep into backend architectures, and helping products come to life with clean, scalable code. I love solving real-world problems with tech, whether it’s optimizing performance, fixing a nasty bug, or creating something from scratch.  
+
+Let’s build cool stuff together 🚀  
+
+- 🌱 Currently exploring Java, JavaFX, and clean backend architecture patterns.  
+- 💼 Always open to collaborating on tech ideas and projects.  
 - 📫 Reach me at [avanilodhi29@gmail.com](mailto:avanilodhi29@gmail.com)
 
 
@@ -12,7 +19,7 @@
 ## 💼 Professional Experience
 
 **Backend Developer – Es Mágico (On-site, Mumbai)**  
-*Jan 2025 – Present*  
+*Oct 2024 – Present*  
 Working on backend development for Plum (a leading cosmetics brand) and supporting their app and admin panel.
 
 - Developed and optimized RESTful APIs for blog and user management systems.
