@@ -1,6 +1,6 @@
 ## 🚀 About Me
 <h1>👋 Hi, I'm Avani Lodhi</h1><br><br>  
-I'm a Backend Developer based in Mumbai, currently working at Es Mágico — a venture studio that partners with startups and enterprises to build and scale tech products.  
+I'm a Backend Developer, currently working at Es Mágico — a venture studio that partners with startups and enterprises to build and scale tech products.  
 
 My journey started in Mechanical Engineering, but somewhere along the way, I fell in love with code. So I made the jump, completed a 35-week intensive full-stack program at Masai School, and haven’t looked back since.  
 
