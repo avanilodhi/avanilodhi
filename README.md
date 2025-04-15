@@ -9,6 +9,18 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/avani-lodhi/) 
 
+## 💼 Professional Experience
+
+**Backend Developer – Es Mágico (On-site, Mumbai)**  
+*Jan 2025 – Present*  
+Working on backend development for Plum (a leading cosmetics brand) and supporting their app and admin panel.
+
+- Developed and optimized RESTful APIs for blog and user management systems.
+- Built Shopify-to-backend integrations for order creation and payment processing (COD/Online via Razorpay).
+- Handled input validations, field-level permissions, deep linking, and multi-table relationships.
+- Contributed to code migration from Node.js to NestJS; worked across both stacks and helped fix legacy bugs.
+- Actively collaborated with cross-functional teams to ship features, squash bugs, and improve performance.
+
 ## 🧩 Projects:
 
 - **Online_Code_Editor (Open Code Dev):** [Open Code Dev: Live Demo](https://online-code-editor-silk.vercel.app/)<br/>
