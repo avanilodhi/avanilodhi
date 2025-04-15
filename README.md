@@ -50,9 +50,9 @@ Working on backend development for Plum (a leading cosmetics brand) and supporti
 
 | Metric                   | Grade  |
 |--------------------------|--------|
-| **Code Quality**         | B+     |
-| **Project Contributions**| B-     |
-| **Activity**             | B+     |
+| **Code Quality**         | A     |
+| **Project Contributions**| A+    |
+| **Activity**             | B+    |
 
 ## 💼 Professional Experience:
 I recently completed a 35-week intensive Full-Stack Web Development course at Masai School, where I honed my skills in HTML, CSS, JavaScript, React, Node.js, and MongoDB. My experiences have equipped me with a strong foundation in creating responsive, user-friendly web applications.
